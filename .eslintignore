@@ -1,0 +1,5 @@
+src/*.test.js
+src/App.jsx
+src/serviceWorker.js
+src/pages/index.jsx
+src/pages/routes/privateRoutesArray.jsx
